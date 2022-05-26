@@ -28,6 +28,8 @@ public class WordReverse {
             System.out.print(reverse[i]);
         }
         
+       System.out.println("This is the modified version");
+       System.out.println("Hello world!!");
        
     }
     
